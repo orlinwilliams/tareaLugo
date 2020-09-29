@@ -1,0 +1,40 @@
+body {
+    padding-top: 5rem;
+}
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+.color-lugo{
+    background-color: #5B3186;
+}
+.color-button{
+    background-color: #38215c;
+}
+
+.caja{
+    border-radius: 0.9rem;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    
+}
+.caja-icono{
+    font-size: 3rem;
+    margin-bottom:15px;
+    
+}
+.border-alltop{
+    border-top-left-radius: 0.9rem;
+    border-top-right-radius: 0.9rem;
+    
+} 
+
+.caja-texto{
+    padding-bottom:8px;
+}
+.card-modal-pedidos{
+    margin: 15px 15px 20px 15px;
+}
+
+
